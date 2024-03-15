@@ -4,19 +4,19 @@
  
  
 ### Home page
-![1](https://user-images.githubusercontent.com/17312616/65086776-b1beb080-d9d0-11e9-9983-143d61ed8fdc.png)
+![1](https://github.com/Ankitup70/ECOMMERCE/assets/132056649/c16c16ba-8472-495a-b93b-06176779d638)
 
 
 
 ### Content Description page
-![2](https://user-images.githubusercontent.com/17312616/65086777-b1beb080-d9d0-11e9-9e2b-af3b7210bdf3.png)
+![2](https://github.com/Ankitup70/ECOMMERCE/assets/132056649/6c7445a9-45ca-431b-b0a5-19869af05ba7)
 
 
 
 ### Ordered List page
-![3](https://user-images.githubusercontent.com/17312616/65086778-b2574700-d9d0-11e9-9377-8e4886f582a8.png)
+![3](https://github.com/Ankitup70/ECOMMERCE/assets/132056649/d0cf6d90-9d9b-48c2-a0f7-0acbeebef4c2)
 
 
 
 ### Order confirm page
-![4](https://user-images.githubusercontent.com/17312616/65086779-b2efdd80-d9d0-11e9-95d5-4b1a48eafe04.png)
+![4](https://github.com/Ankitup70/ECOMMERCE/assets/132056649/7c2784c1-3b3e-4c76-93bd-3afd8d6ae60f)
